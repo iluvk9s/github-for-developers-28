@@ -4,4 +4,3 @@
 - [ ] From:  Far away and long ago
 - [ ] Fav food:  Avocado
 - [ ] Fav activity:  Stuff
-- [ ] Fav color:  Purple
